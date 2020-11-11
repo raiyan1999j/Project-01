@@ -1,0 +1,83 @@
+@media screen and (min-width:0px) and (max-width:770px){
+	.navbar-list,.navbar-list-2,.brefing{
+		float:none;
+	}
+	.navbar-list a,.navbar-list-2{
+		display:block;
+		text-align:center;
+		margin-left:0px;
+	}
+	.navbar-list-2{
+		width:100%;
+	}
+	.brefing{
+		display:block;
+		width:100%;
+	}
+	.container{
+		width:100%;
+	}
+	.width-40{
+		width:100%;
+		float:none;
+	}
+	.width-30{
+		float:none;
+		width:100%;
+		margin-top:50px;
+	}
+	.head-image{
+		float:none;
+		margin-left:35%;
+		margin-top:10px;
+	}
+	.head-text{
+		text-align:center;
+		float:none;
+	}
+	.head-content{
+		display:block;
+		text-align:center;
+	}
+	.image-1{
+		width:100%;
+		object-fit:cover;
+	}
+	.width-60{
+		width:80%;
+		display:block;
+	}
+	.width-20{
+		flex:80%;
+		display:block;
+		padding:0px;
+	}
+	.list{
+		text-align:center;
+	}
+	.national-flex{
+		flex-flow:column wrap;
+	}
+	.footer-1st{
+		flex-flow:column wrap;
+		align-content:center;
+	}
+	.photo-flex{
+		flex:45%;
+	}
+	.flex-box{
+		flex-flow:column wrap;
+	}
+	.flex-box-item{
+		flex:45%;
+	}
+	.container-2{
+		margin:150px auto;
+	}
+	.style{
+		width:100%;
+	}
+	.absolute{
+		width:100%;
+	}
+}
